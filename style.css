@@ -100,6 +100,6 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
-    background-image: url(/close.svg);
+    background-image: url('close.svg');
     cursor: pointer;
 }
